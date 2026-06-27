@@ -46,7 +46,7 @@
         </div>
 
         <div>
-            <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+            <img src="https://media.istockphoto.com/id/1067020710/id/foto/merapatkan-sampel-meja-dapur.webp?a=1&b=1&s=612x612&w=0&k=20&c=tW2i2Q4cmmVK_8aMU50y5RzQM-utZUMCVJzqiBzO1Sg="
                 class="rounded-2xl shadow-lg">
         </div>
 
@@ -54,49 +54,44 @@
 
     <!-- PRODUCTS -->
     <section id="produk" class="max-w-6xl mx-auto px-6 py-10">
-
         <h3 class="text-2xl font-bold mb-6">Produk Unggulan</h3>
 
         <div class="grid md:grid-cols-3 gap-6">
 
             <!-- CARD 1 -->
             <div class="bg-white rounded-2xl shadow hover:shadow-lg transition overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?w=800"
+                <img src="https://images.unsplash.com/photo-1637241612956-b7309005288b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJhaGFuJTIwYmFuZ3VuYW58ZW58MHx8MHx8fDA%3D"
                     class="h-48 w-full object-cover">
-
                 <div class="p-4">
-                    <h4 class="font-bold">Laptop Office</h4>
-                    <p class="text-gray-500 text-sm">Cocok untuk operasional toko</p>
-                    <p class="mt-2 font-bold text-blue-600">Rp 8.500.000</p>
+                    <h4 class="font-bold">Piva Portland</h4>
+                    <p class="text-gray-500 text-sm">Material utama konstruksi bangunan</p>
+                    <p class="mt-2 font-bold text-blue-600">Rp 65.000</p>
                 </div>
             </div>
 
             <!-- CARD 2 -->
             <div class="bg-white rounded-2xl shadow hover:shadow-lg transition overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800"
+                <img src="https://images.unsplash.com/photo-1627882206813-8c1ffd86efec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhaGFuJTIwYmFuZ3VuYW58ZW58MHx8MHx8fDA%3D"
                     class="h-48 w-full object-cover">
-
                 <div class="p-4">
-                    <h4 class="font-bold">Smartphone</h4>
-                    <p class="text-gray-500 text-sm">Untuk komunikasi & sales</p>
-                    <p class="mt-2 font-bold text-blue-600">Rp 3.200.000</p>
+                    <h4 class="font-bold">Bata Merah</h4>
+                    <p class="text-gray-500 text-sm">Tulangan struktur bangunan</p>
+                    <p class="mt-2 font-bold text-blue-600">Rp 120.000</p>
                 </div>
             </div>
 
             <!-- CARD 3 -->
             <div class="bg-white rounded-2xl shadow hover:shadow-lg transition overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=800"
+                <img src="https://media.istockphoto.com/id/182177634/id/foto/gudang-penuh-karung-ditumpuk-dari-lantai-ke-langit-langit.webp?a=1&b=1&s=612x612&w=0&k=20&c=jwwHCulFBD2iqIJSPfmu1UGjj_0dh6Uxyp-xdUj-O5E="
                     class="h-48 w-full object-cover">
-
                 <div class="p-4">
-                    <h4 class="font-bold">Printer POS</h4>
-                    <p class="text-gray-500 text-sm">Cetak struk cepat & stabil</p>
-                    <p class="mt-2 font-bold text-blue-600">Rp 1.250.000</p>
+                    <h4 class="font-bold">Semen</h4>
+                    <p class="text-gray-500 text-sm">Material dinding tradisional</p>
+                    <p class="mt-2 font-bold text-blue-600">Rp 53000 / sak</p>
                 </div>
             </div>
 
         </div>
-
     </section>
 
     <!-- FEATURES -->
